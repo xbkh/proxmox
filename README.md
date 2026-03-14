@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🖥️ Plateforme de Virtualisation Proxmox VE 9.0
+<img src="https://cdn.simpleicons.org/proxmox/E05C00" alt="Proxmox VE" width="120"/>
+
+# Plateforme de Virtualisation Proxmox VE 9.0
 
 **Cluster Haute Disponibilité — 3 Nœuds**
 
