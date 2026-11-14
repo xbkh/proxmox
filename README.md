@@ -262,6 +262,159 @@ pvecm status
 
 ---
 
+## 🖼️ Screenshots
+
+Captures taken during the deployment, grouped by step.
+
+### Network topology
+
+<p align="center">
+  <img src="docs/screenshots/002-topologie-rseau-complte.png" alt="Network topology (1/1)" width="45%">
+</p>
+
+### VLANs and interfaces
+
+<p align="center">
+  <img src="docs/screenshots/003-dtail-des-vlans-et-interfaces.png" alt="VLANs and interfaces (1/1)" width="45%">
+</p>
+
+### Installation media preparation
+
+<p align="center">
+  <img src="docs/screenshots/004-tlchargement-et-cration-du-support.png" alt="Installation media preparation (1/3)" width="45%">
+  <img src="docs/screenshots/005-tlchargement-et-cration-du-support.png" alt="Installation media preparation (2/3)" width="45%">
+  <img src="docs/screenshots/006-tlchargement-et-cration-du-support.png" alt="Installation media preparation (3/3)" width="45%">
+</p>
+
+### NFS server setup
+
+<p align="center">
+  <img src="docs/screenshots/016-mise-en-place-du-serveur-nfs.png" alt="NFS server setup (1/2)" width="45%">
+  <img src="docs/screenshots/017-mise-en-place-du-serveur-nfs.png" alt="NFS server setup (2/2)" width="45%">
+</p>
+
+### Adding the storage in Proxmox (web UI)
+
+<p align="center">
+  <img src="docs/screenshots/018-ajout-du-stockage-dans-proxmox-interface.png" alt="Adding the storage in Proxmox (web UI) (1/1)" width="45%">
+</p>
+
+### Alpine Linux VM: prerequisites
+
+<p align="center">
+  <img src="docs/screenshots/019-pr-requis.png" alt="Alpine Linux VM: prerequisites (1/1)" width="45%">
+</p>
+
+### Creating the Alpine Linux VM
+
+<p align="center">
+  <img src="docs/screenshots/020-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (1/7)" width="45%">
+  <img src="docs/screenshots/021-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (2/7)" width="45%">
+  <img src="docs/screenshots/022-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (3/7)" width="45%">
+  <img src="docs/screenshots/023-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (4/7)" width="45%">
+  <img src="docs/screenshots/024-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (5/7)" width="45%">
+  <img src="docs/screenshots/025-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (6/7)" width="45%">
+  <img src="docs/screenshots/026-cration-de-la-vm.png" alt="Creating the Alpine Linux VM (7/7)" width="45%">
+</p>
+
+### Adding a VM to HA
+
+<p align="center">
+  <img src="docs/screenshots/027-ajout-dune-vm-au-ha.png" alt="Adding a VM to HA (1/3)" width="45%">
+  <img src="docs/screenshots/028-ajout-dune-vm-au-ha.png" alt="Adding a VM to HA (2/3)" width="45%">
+  <img src="docs/screenshots/029-ajout-dune-vm-au-ha.png" alt="Adding a VM to HA (3/3)" width="45%">
+</p>
+
+### Test 1: simulating a node crash
+
+<p align="center">
+  <img src="docs/screenshots/030-test-1-simulation-de-crash-dun-nud.png" alt="Test 1: simulating a node crash (1/2)" width="45%">
+  <img src="docs/screenshots/031-test-1-simulation-de-crash-dun-nud.png" alt="Test 1: simulating a node crash (2/2)" width="45%">
+</p>
+
+### Successful failover scenario
+
+<p align="center">
+  <img src="docs/screenshots/032-scnario-de-test-russi.png" alt="Successful failover scenario (1/5)" width="45%">
+  <img src="docs/screenshots/033-scnario-de-test-russi.png" alt="Successful failover scenario (2/5)" width="45%">
+  <img src="docs/screenshots/034-scnario-de-test-russi.png" alt="Successful failover scenario (3/5)" width="45%">
+  <img src="docs/screenshots/035-scnario-de-test-russi.png" alt="Successful failover scenario (4/5)" width="45%">
+  <img src="docs/screenshots/036-scnario-de-test-russi.png" alt="Successful failover scenario (5/5)" width="45%">
+</p>
+
+### Creating an iSCSI LUN (StarWind)
+
+<p align="center">
+  <img src="docs/screenshots/037-cration-dun-lun-iscsi.png" alt="Creating an iSCSI LUN (StarWind) (1/5)" width="45%">
+  <img src="docs/screenshots/038-cration-dun-lun-iscsi.png" alt="Creating an iSCSI LUN (StarWind) (2/5)" width="45%">
+  <img src="docs/screenshots/039-cration-dun-lun-iscsi.png" alt="Creating an iSCSI LUN (StarWind) (3/5)" width="45%">
+  <img src="docs/screenshots/040-cration-dun-lun-iscsi.png" alt="Creating an iSCSI LUN (StarWind) (4/5)" width="45%">
+  <img src="docs/screenshots/041-cration-dun-lun-iscsi.png" alt="Creating an iSCSI LUN (StarWind) (5/5)" width="45%">
+</p>
+
+### iSCSI network configuration
+
+<p align="center">
+  <img src="docs/screenshots/042-configuration-rseau-iscsi.png" alt="iSCSI network configuration (1/1)" width="45%">
+</p>
+
+### Integrating iSCSI into Proxmox
+
+<p align="center">
+  <img src="docs/screenshots/043-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (1/8)" width="45%">
+  <img src="docs/screenshots/044-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (2/8)" width="45%">
+  <img src="docs/screenshots/045-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (3/8)" width="45%">
+  <img src="docs/screenshots/046-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (4/8)" width="45%">
+  <img src="docs/screenshots/047-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (5/8)" width="45%">
+  <img src="docs/screenshots/048-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (6/8)" width="45%">
+  <img src="docs/screenshots/049-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (7/8)" width="45%">
+  <img src="docs/screenshots/050-intgration-dans-proxmox.png" alt="Integrating iSCSI into Proxmox (8/8)" width="45%">
+</p>
+
+### HA configuration
+
+<p align="center">
+  <img src="docs/screenshots/051-configuration-ha-high-availability.png" alt="HA configuration (1/2)" width="45%">
+  <img src="docs/screenshots/052-configuration-ha-high-availability.png" alt="HA configuration (2/2)" width="45%">
+</p>
+
+### Installing Node Exporter
+
+<p align="center">
+  <img src="docs/screenshots/053-a-installation-de-node-exporter.png" alt="Installing Node Exporter (1/2)" width="45%">
+  <img src="docs/screenshots/054-a-installation-de-node-exporter.png" alt="Installing Node Exporter (2/2)" width="45%">
+</p>
+
+### Centralizing metrics with Prometheus
+
+<p align="center">
+  <img src="docs/screenshots/055-centralisation-avec-prometheus.png" alt="Centralizing metrics with Prometheus (1/2)" width="45%">
+  <img src="docs/screenshots/056-centralisation-avec-prometheus.png" alt="Centralizing metrics with Prometheus (2/2)" width="45%">
+</p>
+
+### Grafana dashboards
+
+<p align="center">
+  <img src="docs/screenshots/057-visualisation-avec-grafana.png" alt="Grafana dashboards (1/7)" width="45%">
+  <img src="docs/screenshots/058-visualisation-avec-grafana.png" alt="Grafana dashboards (2/7)" width="45%">
+  <img src="docs/screenshots/059-visualisation-avec-grafana.png" alt="Grafana dashboards (3/7)" width="45%">
+  <img src="docs/screenshots/060-visualisation-avec-grafana.png" alt="Grafana dashboards (4/7)" width="45%">
+  <img src="docs/screenshots/061-visualisation-avec-grafana.png" alt="Grafana dashboards (5/7)" width="45%">
+  <img src="docs/screenshots/062-visualisation-avec-grafana.png" alt="Grafana dashboards (6/7)" width="45%">
+  <img src="docs/screenshots/063-visualisation-avec-grafana.png" alt="Grafana dashboards (7/7)" width="45%">
+</p>
+
+### Grafana visualization and alerts
+
+<p align="center">
+  <img src="docs/screenshots/064-visualisation-grafana.png" alt="Grafana visualization and alerts (1/4)" width="45%">
+  <img src="docs/screenshots/065-visualisation-grafana.png" alt="Grafana visualization and alerts (2/4)" width="45%">
+  <img src="docs/screenshots/066-visualisation-grafana.png" alt="Grafana visualization and alerts (3/4)" width="45%">
+  <img src="docs/screenshots/067-visualisation-grafana.png" alt="Grafana visualization and alerts (4/4)" width="45%">
+</p>
+
+---
+
 ## 🔮 Roadmap
 
 | Horizon | Evolutions |
